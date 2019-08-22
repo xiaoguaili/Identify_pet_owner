@@ -56,3 +56,5 @@ Codes: labelTrainingSet.ipynb
 1. The error in the first step could be reduced by manual correction. It is the main error in the above analysis, but it could be easily reduced. 
 2. Other classifiers could also be tried in this problem, e.g. SVM classifier, logistic classifier or neural network. Undersampling may be done before training these models for unbalanced data.
  
+ 
+ Note: the input and some output dataset are too large to be uploaded.
